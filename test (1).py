@@ -67,6 +67,6 @@ while True:  # Loodud tsükkel, mis jätkub kuni see katkestatakse
     elif valik == 0:  # Kontrollib, kas kasutaja valis vale valiku
         print('Sisesta uuesti üks liitmise operaator')  # Teavitame kasutajat veast
         break  # Katkestame tsükli
-
-
+        
+        
         #https://github.com/indr3kk/mittpangandus/blob/master/test%20(1).py
